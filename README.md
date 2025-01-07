@@ -8,6 +8,9 @@ You can clone/copy this project and edit it with your own content, or use it as 
 In this project, the Docsy theme is pulled in as a Hugo module, together with
 its dependencies:
 
+This project is a fork of [google/docsy-example](https://github.com/google/docsy-example).
+As part of the modifications, references to google have been replaced with my personal GitHub username. While care was taken during this process, some links or references may have been inadvertently updated incorrectly. If you notice any issues, feel free to open a pull request or an issue.
+
 ```console
 $ hugo mod graph
 ...
@@ -109,7 +112,7 @@ Clone the latest version of the docsy theme into the parent folder of your proje
 
 ```shell
 cd root-of-your-site
-git clone --branch v0.7.2 https://github.com/google/docsy.git ../docsy
+git clone --branch v0.7.2 https://github.com/pasabanov/docsy ../docsy
 ```
 
 Now run:
@@ -180,7 +183,7 @@ See this [section](https://www.docsy.dev/docs/get-started/docsy-as-module/instal
 [alternate dashboard]: https://app.netlify.com/sites/goldydocs/deploys
 [deploys]: https://app.netlify.com/sites/docsy-example/deploys
 [Docsy user guide]: https://docsy.dev/docs
-[Docsy]: https://github.com/google/docsy
+[Docsy]: https://github.com/pasabanov/docsy
 [example.docsy.dev]: https://example.docsy.dev
 [Hugo theme module]: https://gohugo.io/hugo-modules/use-modules/#use-a-module-for-a-theme
 [Netlify]: https://netlify.com
