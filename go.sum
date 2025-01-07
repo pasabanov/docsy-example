@@ -6,4 +6,6 @@ github.com/pasabanov/docsy v0.0.0-20250107191903-b5c6ccaad222 h1:NwbR2989NWF2B2D
 github.com/pasabanov/docsy v0.0.0-20250107191903-b5c6ccaad222/go.mod h1:srcfrKVDisTcAX90GRMx0cYkpCa571pOQvIsUh6yc8E=
 github.com/pasabanov/docsy v0.0.0-20250107201739-57c7029c20ba h1:OPU7+7VczyW9D/p6JYA22otP8Y/NO35hFVGGegsLOVY=
 github.com/pasabanov/docsy v0.0.0-20250107201739-57c7029c20ba/go.mod h1:srcfrKVDisTcAX90GRMx0cYkpCa571pOQvIsUh6yc8E=
+github.com/pasabanov/docsy v0.0.0-20250107202629-d020a42e3c78 h1:DCoS0tf6dE1TvSz9M3BOr98gIwQwTiG0N5E/PtGusxI=
+github.com/pasabanov/docsy v0.0.0-20250107202629-d020a42e3c78/go.mod h1:srcfrKVDisTcAX90GRMx0cYkpCa571pOQvIsUh6yc8E=
 github.com/twbs/bootstrap v5.3.3+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
