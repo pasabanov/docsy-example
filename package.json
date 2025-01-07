@@ -31,8 +31,7 @@
     "serve": "npm run _serve",
     "test": "npm run check:links",
     "update:dep": "npm install --save-dev autoprefixer@latest postcss-cli@latest",
-    "update:hugo": "npm install --save-dev --save-exact hugo-extended@latest",
-    "update:pkgs": "npx npm-check-updates -u"
+    "update:hugo": "npm install --save-dev --save-exact hugo-extended@latest"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.20",
@@ -40,9 +39,6 @@
     "hugo-extended": "0.140.2",
     "postcss-cli": "^11.0.0",
     "rtlcss": "^4.3.0"
-  },
-  "optionalDependencies": {
-    "npm-check-updates": "^17.1.4"
   },
   "private": true,
   "prettier": {
